@@ -6,7 +6,7 @@ import { SiExpress, SiTailwindcss } from 'react-icons/si'
 export const data = [
     {
         projectName: 'Calculator',
-        projectUrl: '../public/calculator.jpg',
+        projectUrl: '/public/calculator.jpg',
         projectLink: 'https://64c19167d559ce17ede06f63--spiffy-profiterole-7a3b16.netlify.app/',
         projectDesc: 'Simple calculator built with React and CSS.',
         projectIcons: [FaReact, FaCss3]
@@ -14,7 +14,7 @@ export const data = [
 
     {
         projectName: 'Multi step form',
-        projectUrl: '../public/multi-step-form.jpg',
+        projectUrl: '/public/multi-step-form.jpg',
         projectLink: 'https://resilient-maamoul-e74e60.netlify.app/',
         projectDesc: 'Form handling with React and CSS.',
         projectIcons: [FaReact, FaCss3]
@@ -22,7 +22,7 @@ export const data = [
 
     {
         projectName: 'Task tracker',
-        projectUrl: '../public/todo-app.jpg',
+        projectUrl: '/public/todo-app.jpg',
         projectLink: 'https://todo-tracker-backend-4k8q.onrender.com',
         projectDesc: 'Crud app with React, CSS, Node.js and MongoDB.',
         projectIcons: [FaReact, FaCss3, FaNodeJs, BiLogoMongodb]
@@ -30,7 +30,7 @@ export const data = [
 
     {
         projectName: 'Portfolio',
-        projectUrl: '../public/portfolio.png',
+        projectUrl: '/public/portfolio.png',
         projectLink: 'https://personal-portfolio-one-lake-29.vercel.app/',
         projectDesc: 'Portfolio built with react, typescript, tailwind and css.',
         projectIcons: [FaReact, FaCss3, SiTailwindcss, BiLogoTypescript]
