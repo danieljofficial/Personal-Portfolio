@@ -22,7 +22,7 @@ function Contact () {
         height: '3rem',
     }
     
-    const resumeUrl = "http://localhost:5173/Daniel_resume.pdf"
+    const resumeUrl = "https://personal-portfolio-one-lake-29.vercel.app//Daniel_resume.pdf"
     const downloadResume = (url) => {
         fetch(url)
             .then((response) => response.blob())
