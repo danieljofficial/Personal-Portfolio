@@ -38,7 +38,7 @@ function About() {
                 initial="hidden"
                 animate="visible"
             >
-                <img src="/public/portrait.png" className='portrait' alt="" />
+                <img src="/portrait.png" className='portrait' alt="" />
             </motion.div>
             
         </motion.div>
